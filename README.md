@@ -21,7 +21,7 @@ This is a simple page to practice HTML and CSS. The challenge comes from the Fro
 
 ### Links
 
-- Solution from frontend Mentor URL: [Here](https://www.frontendmentor.io/solutions/stats-preview-card-component-mobile-first-responsive-Ypp4Cslyob)
+- Solution from frontend Mentor URL: [Here](https://www.frontendmentor.io/solutions/3-column-preview-card-component-mobile-first-responsive-9FRQZWAUWP)
 - Live Site URL: [Here](https://3-columnpreviewcardcomponet-agp482.netlify.app/)
 
 ## My process
